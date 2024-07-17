@@ -10,7 +10,7 @@ Ao clicar em Novo Jogo um número entre 1 e 10 é sorteado, e você deve tentar 
 
 Para jogar clique no link abaixo:
 
-[**Jogar Agora**] (https://jogo-secreto-khaki-six.vercel.app/)
+[**Jogar Agora**](https://jogo-secreto-khaki-six.vercel.app/)
 
 ## Tecnologias Utilizadas
 
